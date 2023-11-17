@@ -126,8 +126,8 @@ https://go.travel-planner.xyz/feed
 <br>
 
 <div align=left> 
-    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white height="25px"">
-    <img src="https://img.shields.io/badge/Websocket-black?style=flat&logo=Websocket&logoColor=white height="25px"">
+    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white" height="25px"">
+    <img src="https://img.shields.io/badge/Websocket-black?style=flat&logo=Websocket&logoColor=white" height="25px"">
     <img src="https://img.shields.io/badge/JWT Webtoken-black?style=flat&logo=JSON%20web%20tokens" height="25px">
     <img src="https://img.shields.io/badge/OAuth2.0-black?style=flat&logo=OAuth2.0&logoColor=white" height="25px">
 </div>
