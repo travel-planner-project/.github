@@ -62,17 +62,17 @@
 
 # 𝙏𝙀𝘼𝙈 𝙏𝙍𝘼𝙑𝙀𝙇 𝙋𝙇𝘼𝙉𝙉𝙀𝙍
 
-🕓 **개발 기간** : 2023.06.18 ~ 현재
+🕓 **개발 기간**
+|버전|기간|
+|:---:|---|
+|`v1`|2023. 07. 16 - 23. 10. 07|
 
-👩‍👧‍👦 **팀 구성** : 프론트 `3` 명, 백엔드 `3` 명 
+👩‍👧‍👦 **팀 구성**
+|버전|팀 구성|
+|:---:|---|
+|`v1`|백엔드 `3`, 프론트 `3`|
+|`v2`|백엔드 `3`, 프론트 `1`|
 
-<br>
-
-|FE|FE|FE|BE|BE|BE|
-|:------:|:------:|:------:|:------:|:------:|:------:|
-|박설화|최예슬|하종승|김시은|신세인|임준형|
-
-<br>
 <br>
 <br>
 <br>
@@ -146,17 +146,9 @@ https://go.travel-planner.xyz/feed
 
 ### 🗄️ **Cloud Server/DB/Deploy**
 <div align=left> 
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white" height="25px">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" height="25px">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" height="25px"> 
-  <br>
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" height="25px"> 
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white" height="25px">
-  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" height="25px">
-  <img src="https://img.shields.io/badge/AWS Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" height="25px"> 
-<br>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/>
-  <img src="https://img.shields.io/badge/Amazon CodeDeploy-1765F6?style=flat&logo=amazonaws&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white" height="25px">
+  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/AWS Service-232F3E?style=flat&logo=amazonaws&logoColor=white" height="25px"/
 </div>
 
 <br>
@@ -241,7 +233,7 @@ https://go.travel-planner.xyz/feed
 
 # 𝙀𝙉𝙏𝙄𝙏𝙔 𝘿𝙄𝘼𝙂𝙍𝘼𝙈
 
-## 1차 배포
+## 1차 기능
 <img src="https://github.com/travel-planner-project/TravelPlanner/assets/119668620/66ad1af2-7584-492e-8bed-6b50144e57c0" width="60%"/>
 
 
@@ -249,7 +241,7 @@ https://go.travel-planner.xyz/feed
 <br>
 <br>
 
-## 2차 배포
+## 2차 기능
 <img src="https://github.com/travel-planner-project/TravelPlanner/assets/119668620/827aa250-849d-4385-918d-7dfaefd556ce" width="70%" />
 
 <br>
